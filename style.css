@@ -429,7 +429,7 @@ a:hover{
     background-size: contain;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(https://raw.githubusercontent.com/habeebhsd/MainPortfolio/main/assets/images/1699012049617.jpg);
+    background-image: url(/1699012049617.jpg);
 }
 
 @media (max-width: 576px) {
